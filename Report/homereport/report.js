@@ -39,21 +39,21 @@ formatter.match({
   "location": "HomePageTest.user_in_homwpage()"
 });
 formatter.result({
-  "duration": 20350484700,
+  "duration": 430907104300,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.women_dresses_tshirt_tabs_are_displayed()"
 });
 formatter.result({
-  "duration": 276056400,
+  "duration": 294470700,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.validate_tabs_are_present()"
 });
 formatter.result({
-  "duration": 247101300,
+  "duration": 328652000,
   "status": "passed"
 });
 formatter.scenario({
@@ -93,21 +93,21 @@ formatter.match({
   "location": "HomePageTest.user_in_homepage()"
 });
 formatter.result({
-  "duration": 2344100,
+  "duration": 2831700,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.women_dresses_tshirt_tabs_are_navigated()"
 });
 formatter.result({
-  "duration": 7668171400,
+  "duration": 43349203400,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.validate_the_navigation_sucessfully()"
 });
 formatter.result({
-  "duration": 5777535700,
+  "duration": 8993685600,
   "status": "passed"
 });
 });

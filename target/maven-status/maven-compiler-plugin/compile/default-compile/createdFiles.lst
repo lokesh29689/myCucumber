@@ -1,7 +1,3 @@
-pageObjects\TshirtpageObjects.class
-utility\BaseClass.class
-stepDefinition\HomePageTest.class
-stepDefinition\DressesPageTest.class
 pageObjects\HomePageObjects.class
-pageObjects\DressesPageObjects.class
-stepDefinition\TshirtPageTest.class
+stepDefinition\HomePageTest.class
+utility\BaseClass.class
